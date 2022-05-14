@@ -5,7 +5,7 @@ import {
 	LineBasicMaterial,
 	Mesh,
 	MeshBasicMaterial
-} from "three";
+} from "dist/assets/lib/three";
 
 /**
  *  This helper must be added as a child of the light

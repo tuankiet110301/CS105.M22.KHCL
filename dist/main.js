@@ -1,7 +1,7 @@
-import { GLTFLoader } from "../assets/lib/GLTFLoader.js";
-import { OrbitControls } from "../assets/lib/OrbitControls.js";
-import { TransformControls } from "../assets/lib/TransformControls.js";
-import { TeapotGeometry } from "../assets/lib/TeapotGeometry.js";
+import { GLTFLoader } from "./assets/lib/GLTFLoader.js";
+import { OrbitControls } from "./assets/lib/OrbitControls.js";
+import { TransformControls } from "./assets/lib/TransformControls.js";
+import { TeapotGeometry } from "./assets/lib/TeapotGeometry.js";
 
 var activeControl = false,
     hasLight = false,
